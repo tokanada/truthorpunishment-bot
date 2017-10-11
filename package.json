@@ -1,0 +1,11 @@
+{
+  "name": "truth-or-punishment-bot",
+  "version": "0.1.0",
+  "description": "Truth or Punishment The Game",
+  "main": "bot.js",
+  "author": "twilysparklez",
+  "dependencies": {
+    "discord.io": "^2.5.2",
+    "winston": "^2.3.1"
+  }
+}
